@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to Nick King's app. My name is fluffy and I like to scratch.
+  Welcome to Nick King's website. My name is fluffy and I like to scratch.
   <!-- END -->
 
   </div>
